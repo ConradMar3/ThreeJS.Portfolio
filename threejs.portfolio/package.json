@@ -10,6 +10,7 @@
     "vite": "^2.7.2"
   },
   "dependencies": {
+    "three": "^0.138.3",
     "vercel": "^23.1.2"
   }
 }
